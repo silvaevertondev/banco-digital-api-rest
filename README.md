@@ -88,7 +88,7 @@ Realiza depósito para as contas já cadastradas. </br>
 
 **Saque:**
 
-Realiza depósito para as contas já cadastradas. </br>
+Realiza saques em contas já cadastradas. </br>
 
 ![](./img/deposito.gif)
 
